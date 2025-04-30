@@ -1,2 +1,2 @@
-# halva
-Headles CMS
+# slices
+Go slices extension
